@@ -194,27 +194,49 @@ df5
 
 # OUPUT:
 ![output](./ex.5.ds1.PNG)
+
 ![output](./ex.5.ds2.PNG)
+
 ![output](./ex.5.ds.3.PNG)
+
 ![output](./ex.5.ds5.PNG)
+
 ![output](./ex.5.ds6.PNG)
+
 ![output](./ex.5.ds7.PNG)
+
 ![output](./ex.5.ds8.PNG)
+
 ![output](./ex.5.ds9.PNG)
+
 ![output](./ex.5.ds10.PNG)
+
 ![output](./ex.5.ds11.PNG)
+
 ![output](./ex.5.ds13.PNG)
+
 ![output](./ex.5.ds14.PNG)
+
 ![output](./ex.5.ds15.PNG)
+
 ![output](./ex.5.ds16.PNG)
+
 ![output](./ex.5.ds17.PNG)
+
 ![output](./ex.5.ds18.PNG)
+
 ![output](./ex.5.ds19.PNG)
+
 ![output](./ex.5.ds20.PNG)
+
 ![output](./ex.5.ds21.PNG)
+
 ![output](./ex.5.ds22.PNG)
+
 ![output](./ex.5.ds23.PNG)
+
 ![output](./ex.5.ds24.PNG)
+
 ![output](./ex.5.ds.25.PNG)
 
 # RESULT:
